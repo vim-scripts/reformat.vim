@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=323
+
+This script defines the common <C-J> key binding to reformat paragraphs, but also takes cares of properly reformatting paragraphs having no blank lines around them, but delimited by specific markup like <p> ... </p>, <para> ... </para>, /* ... */ or any other constructs: it can be easily extended for about any syntax.
